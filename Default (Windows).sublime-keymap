@@ -1,0 +1,7 @@
+[	
+
+	{ "keys": ["ctrl+alt+l"], "command": "reindent", "args": { "single_line": false }},
+	{ "keys": ["f12"], "command": "open_in_browser"},
+	{ "keys": ["ctrl+alt+d"], "command": "clone_file"}
+
+]
